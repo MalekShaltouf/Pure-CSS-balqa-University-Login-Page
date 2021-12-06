@@ -1,0 +1,84 @@
+body{
+    background-color:#fcfccf;
+}
+div.parent1{
+    padding-right:130px;
+    overflow:auto;
+}
+img{
+    float:right;
+    padding-top:30px;
+    
+}
+h1.child1{
+    float:right;
+    font-family:andalus;
+    font-size:60px;
+    padding-right:30px;
+    color:black;
+    
+}
+.parent2{
+    
+    overflow:auto;
+
+}
+.childA{
+    width:1050px;
+    height:150px;
+    background-color:#2eb82e;
+    float:right;
+
+}
+.childB{
+    width:1050px;
+    height:50px;
+    background-color:#fafa9e;
+    float:right;
+    margin-top:50px;
+    
+}
+.parent3{
+    overflow:auto;
+}
+.child2{
+    border:1px solid #2eb82e;
+    width:300px;
+    padding-left:60px;
+    padding-right:0px;
+    float:right;
+}
+.child3{
+    border:1px solid #2eb82e;
+    width:660px;
+    height:292px;
+    margin-right:30px;
+    float:right;
+}
+input[type="submit"]{
+    width:150px;
+    height:40px;
+    background-color:#2eb82e;
+    color:#fff;
+    font-size:25px;
+    font-weight:bold;
+}
+input[type="submit"]:hover{background-color:#0f3d0f;}
+a{
+    text-decoration:none;
+    color:#000;
+}
+a.link1{
+    text-decoration:none;
+    color:#2eb82e;
+    font-size:25px;
+    font-weight:bold;
+
+}
+a.link2:hover{color:#2eb82e;text-decoration:underline;}
+h1{
+    color:darkblue;
+}
+.parent{
+    padding-right:80px;
+}
